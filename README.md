@@ -30,7 +30,7 @@ Programming is giving your computer a set of instructions to perform a task.
 
 ## Javscript Basics
 
-[What's a varable?](introduction to varables.md)
+[What's a varable?](introduction-to-varables.md)
 
 
 ## Lets do some code!
